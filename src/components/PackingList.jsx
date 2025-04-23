@@ -60,7 +60,7 @@ export default function PackingList() {
               {category}
             </h2>
 
-            <div className="grid grid-cols-2 gap-4">
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
               <div className="border p-4 rounded shadow-sm">
                 <h3 className="font-semibold text-lg mb-2 text-red-500">
                   Nog inpakken
